@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bbc43344.chunk.css",
+    "main.js": "/static/js/main.4b76ddb0.chunk.js",
+    "main.js.map": "/static/js/main.4b76ddb0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d92cac6f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d92cac6f.js.map",
+    "static/js/2.e1fadad2.chunk.js": "/static/js/2.e1fadad2.chunk.js",
+    "static/js/2.e1fadad2.chunk.js.map": "/static/js/2.e1fadad2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bbc43344.chunk.css.map": "/static/css/main.bbc43344.chunk.css.map",
+    "static/js/2.e1fadad2.chunk.js.LICENSE.txt": "/static/js/2.e1fadad2.chunk.js.LICENSE.txt",
+    "static/media/Scarecrow.63343086.png": "/static/media/Scarecrow.63343086.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d92cac6f.js",
+    "static/js/2.e1fadad2.chunk.js",
+    "static/css/main.bbc43344.chunk.css",
+    "static/js/main.4b76ddb0.chunk.js"
+  ]
+}
